@@ -5,6 +5,8 @@
 - [Introduction](#introduction)
   - [Problem Description](#problem_description)
   - [Motivation](#motivation)
+- [Tooling](#tooling)
+  - [Links to Tools](#tooling_links)
 - [Goals, Methodology, and Success Criteria](#goals)
 - [Training Data](#training-data)
 
@@ -23,7 +25,18 @@ Some applications of emotion detection include:
 
 - Helping people with visual impairment identify emotions
 - Detecting alertness in drivers and pilots
-- In market research, identifying consumer sentiment when engaging with a product
+- In market research, to identify consumer sentiment when engaging with a product
+
+## [Tooling](#tooling)
+
+For modeling, Keras and Tensorflow were used. Keras is a Python based, deep-learning API that runs with Tensorflow in the backend. Interactivity is provided through the [Flask application](https://github.com/gabrieljohndusing/GA-TOR-Jabberwocky-Capstone-App).
+When the user uploads an image using the Flask app, the image is processed using OpenCV2.
+
+### [Links to Tools](#tooling_links)
+- [Keras](https://keras.io/about/)
+- [Tensorflow](https://www.tensorflow.org/)
+- [Flask](https://flask.palletsprojects.com/)
+- [OpenCV](https://docs.opencv.org/master/d6/d00/tutorial_py_root.html)
 
 ## [Goals, Methodology, and Success Criteria](#goals)
 
