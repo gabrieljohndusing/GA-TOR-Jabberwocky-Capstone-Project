@@ -1,7 +1,5 @@
 # GA-TOR-Jabberwocky-Capstone-Project
 
-WORK IN PROGRESS
-
 ## Contents
 
 - [Introduction](#introduction)
@@ -24,6 +22,8 @@ I built a model that classifies images of faces based on their displayed emotion
 Some applications of emotion detection include:
 
 - Helping people with visual impairment identify emotions
+- Detecting alertness in drivers and pilots
+- In market research, identifying consumer sentiment when engaging with a product
 
 ## [Goals, Methodology, and Success Criteria](#goals)
 
